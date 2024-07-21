@@ -42,7 +42,7 @@ This project aims to support a proptech company's launch of an instant buy-and-r
 ![Geoviews](./Images/6-4-geoviews-plot.png)   
 **Housing Units in San Francisco - 2010 to 2016**   
 ![Housing Units](./Images/zoomed-housing-units-by-year.png)   
-** Sales Price Per Square Foot and Average Gross Rent - 2010-2016 - San Francisco**   
+**Sales Price Per Square Foot and Average Gross Rent - 2010-2016 - San Francisco**   
 ![Sales Price and Average Gross Rent](./Images/pricing-info-by-neighborhood.png)   
 
 ---
