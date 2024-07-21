@@ -17,7 +17,6 @@ This project aims to identify viable investment properties in the San Francisco 
    1. concat()
    2. 
      
-4.
 
 ---
 
