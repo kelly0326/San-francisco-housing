@@ -7,15 +7,18 @@ This project aims to identify viable investment properties in the San Francisco 
 
 1. Aggregation
    1. Groupby()
-   2. 
+   2. mean(), max()
+   3. .loc[:, 'col']
 
 2. Hvplot
    1. Geoviews
-   2. 
+   2. Hvplot Groupby()
+   3. opts(): yformatter, ylim(tuple)
+   4. Parameters: x, y, kind, xlabel, ylabel, color, hover_color, title
      
 3. Pandas Dataframe
    1. concat()
-   2. 
+   2. sort_values(), by, ascending
      
 
 ---
