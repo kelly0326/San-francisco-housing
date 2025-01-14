@@ -47,12 +47,12 @@ This project aims to support a proptech company's launch of an instant buy-and-r
 ![Housing Units](./Images/zoomed-housing-units-by-year.png)   
 **Sales Price Per Square Foot and Average Gross Rent - 2010-2016 - San Francisco**   
 ![Sales Price and Average Gross Rent](./Images/pricing-info-by-neighborhood.png)   
-**Dashboard**  
-![San Francisco Housing Analysis](./[Dashboard 1](![dashboard](https://github.com/user-attachments/assets/43db911b-512c-4f51-beae-194470b83640)))   
-
-
 
 ---
+
+## Dashboard
+![dashboard](https://github.com/user-attachments/assets/b4148532-79a3-498f-85af-bdcafa9596d4)   
+
 
 ## Contributors
 
